@@ -1,0 +1,31 @@
+creation of virtual environment: python -m venv real_estate
+activation of virutal env (windows) : env\Scripts\activate (linux) :source env\bin\activate
+
+created repository in github
+
+added gitignore file in path: npx gitignore python
+(if node note installed then: 'https://www.toptal.com/developers/gitignore/api/python')
+
+git init
+-add remote origin
+created requirements.txt
+
+install requirements: pip3 install -r requirements.txt
+upgrade pip: pip3 upgrade pip
+
+see all our packages: pip3 list
+
+start django project: django-admin startproject real_estate .
+
+gitignore items added
+
+setup flask8 (for pep8 format)
+
+setup .env file and setup path in settings.py
+
+pending
+use pylint
+
+created apps : python3 manage.py startapp app_name
+
+changed installed_apps, timezone in settings
