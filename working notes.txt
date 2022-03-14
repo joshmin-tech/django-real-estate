@@ -29,3 +29,9 @@ use pylint
 created apps : python3 manage.py startapp app_name
 
 changed installed_apps, timezone in settings
+
+Email Address: joshminrs@gmail.com
+Username: joshmin
+First Name: joshmin
+Last Name: RS
+password: 3333
