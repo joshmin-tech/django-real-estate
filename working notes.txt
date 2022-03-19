@@ -11,6 +11,9 @@ git init
 created requirements.txt
 
 install requirements: pip3 install -r requirements.txt
+
+freeze and create requirements file: pip freeze > requirements.txt
+
 upgrade pip: pip3 upgrade pip
 
 see all our packages: pip3 list
@@ -35,3 +38,13 @@ Username: joshmin
 First Name: joshmin
 Last Name: RS
 password: 3333
+
+
+docker 
+docker --version
+docker-compose --version
+
+docker-compose config
+docker-compose up --build -d --remove-orphans
+docker compose logs
+docker compose down
