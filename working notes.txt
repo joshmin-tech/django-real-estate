@@ -58,3 +58,10 @@ make superuser
 remove container in docker: docker container rm -f (id)
 
 
+connection with postgresql: make estate-db
+connect with db: \connect
+list relations: \dt
+quit: \q
+
+
+
