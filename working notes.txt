@@ -75,6 +75,15 @@ make isort-diff
 make isort
 make flake8
 
+after updating setup.cfg 
+make build
+make show-logs
+make test
+make test-html
+
+
+
+
 
 browser shortcuts-- go to search bar by key /
 
