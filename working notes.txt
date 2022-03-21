@@ -63,5 +63,22 @@ connect with db: \connect
 list relations: \dt
 quit: \q
 
+after added pyproject.toml (pep 518- requirements for python project)
+make down
+make build
+make 
+make black-check
+make black-diff
+make black
+make isort-check
+make isort-diff
+make isort
+make flake8
+
+
+browser shortcuts-- go to search bar by key /
+
+
+
 
 
