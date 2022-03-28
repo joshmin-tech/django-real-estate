@@ -82,10 +82,14 @@ make test
 make test-html
 
 
-
-
-
 browser shortcuts-- go to search bar by key /
+
+
+React js
+create react app: npx create-react-app (app_name) --template redux
+npm start
+remove git files: rm -rf .git 
+rm -rf .gitignore
 
 
 
