@@ -91,6 +91,10 @@ npm start
 remove git files: rm -rf .git 
 rm -rf .gitignore
 
+npm install
+axios react-icons react-redux react-router-dom react-toastify react-bootstr
+ap bootsrap@5.1.3 react-router-bootstrap
+
 
 
 
